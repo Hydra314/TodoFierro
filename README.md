@@ -11,8 +11,5 @@
 - 🎨 Interfaz moderna con Tailwind CSS.
 - 🐘 Conexión a base de datos MySQL.
 
----
-
-## 📦 Estructura del proyecto
 
 
